@@ -1,0 +1,5 @@
+name = "JuliaRegistry"
+uuid = "5ae2f6cd-9e01-4c95-af9b-9a8d21f67550"
+repo = "git@github.com:colinxs/JuliaRegistry.git"
+
+[packages]
