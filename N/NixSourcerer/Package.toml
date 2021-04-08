@@ -1,0 +1,3 @@
+name = "NixSourcerer"
+uuid = "393ab781-533d-4207-828b-ae5a02ad719c"
+repo = "https://github.com/colinxs/NixSourcerer.jl.git"
